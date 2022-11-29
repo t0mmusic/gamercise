@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJ3xUmmfdqxKYxD4cByLPyVOFd5+JlDbWfp31itQYXbgV81GAKlmF/RB38corgAVJOYpoVaDMf0/GX1I+3MefQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Jordan.Brown\\Documents\\Xamarin test\\Logging\\Logging.iOS\\Logging.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identity.client\\4.45.0\\microsoft.identity.client.4.45.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.21.0\\microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.21.0\\microsoft.identitymodel.protocols.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.21.0\\microsoft.identitymodel.protocols.openidconnect.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog\\2.12.1-dev-01587\\serilog.2.12.1-dev-01587.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.settings.configuration\\3.5.0-dev-00359\\serilog.settings.configuration.3.5.0-dev-00359.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.sinks.file\\5.0.1-dev-00947\\serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.sinks.mssqlserver\\6.0.1-dev-00031\\serilog.sinks.mssqlserver.6.0.1-dev-00031.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.sinks.mssqlservercore\\1.1.1\\serilog.sinks.mssqlservercore.1.1.1.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.sinks.mysql\\4.6.0\\serilog.sinks.mysql.4.6.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\serilog.sinks.periodicbatching\\3.1.0\\serilog.sinks.periodicbatching.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\sqlite-net-pcl\\1.9.141-beta\\sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\sqlitepclraw.provider.sqlite3\\2.1.2\\sqlitepclraw.provider.sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.data.sqlclient\\4.1.0\\system.data.sqlclient.4.1.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.security.securestring\\4.3.0\\system.security.securestring.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan.Brown\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Serilog.Sinks.MySQL 4.6.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Package Serilog.Sinks.MySQL 4.6.0 supports:\r\n  - net452 (.NETFramework,Version=v4.5.2)\r\n  - net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Serilog.Sinks.MySQL",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Serilog.Sinks.MySQL 4.6.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Package Serilog.Sinks.MySQL 4.6.0 supports:\r\n  - net452 (.NETFramework,Version=v4.5.2)\r\n  - net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Serilog.Sinks.MySQL",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Serilog.Sinks.MySQL 4.6.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Package Serilog.Sinks.MySQL 4.6.0 supports:\r\n  - net452 (.NETFramework,Version=v4.5.2)\r\n  - net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Serilog.Sinks.MySQL",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Serilog.Sinks.MySQL 4.6.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Package Serilog.Sinks.MySQL 4.6.0 supports:\r\n  - net452 (.NETFramework,Version=v4.5.2)\r\n  - net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Serilog.Sinks.MySQL",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

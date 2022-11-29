@@ -2,7 +2,7 @@ using System;
 
 namespace UserData
 {
-	class User : Level
+	class User
 	{
 		private String	_userName;
 		private Level	_LevelInfo;
@@ -42,7 +42,7 @@ namespace UserData
 		protected int	_base_exp;
 		protected int	_curr_exp;
 		protected int	_curr_lvl;
-		protected int	_multiplier;
+		protected float	_multiplier;
 
 		/* Default constructor for new level data. To be used with new User. */
 		public Level( ) {
@@ -72,7 +72,7 @@ namespace UserData
 			threshold increased. */
 
 		public void updateExp( int exp ) {
-			_curr_exp += exp * _multiplier;
+			_curr_exp += (int)(exp * _multiplier);
 			if (_curr_exp >= _base_exp)
 			{
 				_curr_lvl++;
@@ -86,7 +86,7 @@ namespace UserData
 		}
 
 		/*	Setters	*/
-		public void setMultiplier( int mult ) {
+		public void setMultiplier( float mult ) {
 			_multiplier = mult;
 		}
 
@@ -100,10 +100,10 @@ namespace UserData
 		}
 
 		public int	getCurrLvl( ) {
-			return (_curr_exp);
+			return (_curr_lvl);
 		}
 
-		public int	getMultiplier( ) {
+		public float	getMultiplier( ) {
 			return (_multiplier);
 		}
 		
@@ -114,7 +114,7 @@ namespace UserData
 		}
 
 		/* Operator overload to modify score multiplier.	*/
-		public static Level operator * ( Level curr, int mult ) {
+		public static Level operator * ( Level curr, float mult ) {
 			curr._multiplier = mult;
 			return (curr);
 		}
@@ -128,6 +128,8 @@ namespace UserData
 			Console.WriteLine("Current score multiplier: " + _multiplier);
 			Console.WriteLine("*******************************");
 		}
+
+		/* Main for testing */
 		static void Main(string[] args)
 		{
 			Level test = new Level();
